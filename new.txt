@@ -11,4 +11,6 @@ new is aa fille
 7. 统计功能：大大的统计表。 　　
 8. 搜索功能：强大的搜索，帮助您找到相应的数据。 　
 
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick AND simple.　
+
