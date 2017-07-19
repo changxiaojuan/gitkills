@@ -12,4 +12,6 @@ new is aa fille
 8. 搜索功能：强大的搜索，帮助您找到相应的数据。 　
 
 Creating a new branch is quick AND simple.　
-rds1d57s9y9ez81im192o.sqlserver.rds.aliyuncs.com:3306
+
+rds1d57s9y9ez81im192o.mysql.rds.aliyuncs.com:3306
+>>>>>>> master
